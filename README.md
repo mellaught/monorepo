@@ -21,7 +21,7 @@
     <br />
     <a href="https://bridge.connext.network/">View Mainnet Bridge</a>
     <br />
-    <a href="https://testnet.bridge.connext.network/">View Testnet Bridge (Connext Amarok)</a>
+    <a href="https://testnet.bridge.connext.network/">View Testnet Bridge (Connext Bacco)</a>
     <br />
     <br />
     <a href="https://github.com/connext/monorepo/issues">Report Bug</a>
@@ -227,4 +227,4 @@ Project Link: [https://github.com/connext/monorepo](https://github.com/connext/m
 [discord-shield]: https://img.shields.io/discord/454734546869551114?&logo=discord
 [discord-url]: https://discord.gg/m93Sqf4
 [twitter-shield]: https://img.shields.io/twitter/follow/ConnextNetwork?style=social
-[twitter-url]: https://twitter.com/ConnextNetwork
+[twitter-url]: https://twitter.com/Connext
